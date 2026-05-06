@@ -23,6 +23,15 @@ This project demonstrates analysis of hematology laboratory data using SAS. It s
 - Data cleaning and transformation
 - Clinical data analysis
 - Safety monitoring in clinical trials
+  
+##  Outputs
+- Hemoglobin trend plots
+- WBC and Platelet analysis
+- Safety signal detection results
 
+##  How to Run
+1. Upload datasets into SAS Studio
+2. Run sas_program.sas
+3. View outputs in Results tab
 ## Author
 Zikhona
