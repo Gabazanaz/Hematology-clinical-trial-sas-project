@@ -33,5 +33,8 @@ This project demonstrates analysis of hematology laboratory data using SAS. It s
 1. Upload datasets into SAS Studio
 2. Run sas_program.sas
 3. View outputs in Results tab
+
+## Data interpretation
+Patients showed declining hemoglobin levels over time, indicating potential anemia risk, which aligned with reported adverse event. 
 ## Author
 Zikhona
